@@ -158,8 +158,10 @@ export default function AlertManager() {
   const getSlackMessages = async () => {
     setModalShow(true);
     try {
-      const response = await axios.get("api/getconvo");
-      return response.data.messages || [1];
+      const response = await axios.get(
+        "http://ec2-3-237-76-247.compute-1.amazonaws.com:7000/api/getconvo"
+      );
+      return response.data.messages;
     } catch (err) {
       console.log(err);
     } finally {
