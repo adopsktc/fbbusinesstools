@@ -6,11 +6,11 @@
       "offConditions": [
         {
           "School": "Independence University - Exclusive - Clone (21539)",
-          "Alert": "Daily Allocation Group Scheduler Cap: Reached"
+          "Alert": "Daily Allocation Group Scheduler Quota: Reached"
         },
         {
           "School": "Full Sail University Online - Exclusive (19926)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         }
       ],
       "backOnConditions": { "goesBackOn": true, "time": "3:00am PST" },
@@ -23,11 +23,11 @@
       "offConditions": [
         {
           "School": "Independence University - Exclusive - Clone (21539)",
-          "Alert": "Daily Allocation Group Scheduler Cap: Reached"
+          "Alert": "Daily Allocation Group Scheduler Quota: Reached"
         },
         {
           "School": "Full Sail University Online - Exclusive (19926)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         }
       ],
       "backOnConditions": { "goesBackOn": true, "time": "3:00am PST" },
@@ -40,11 +40,11 @@
       "offConditions": [
         {
           "School": "Independence University - Exclusive - Clone (21539)",
-          "Alert": "Daily Allocation Group Scheduler Cap: Reached"
+          "Alert": "Daily Allocation Group Scheduler Quota: Reached"
         },
         {
           "School": "Full Sail University Online - Computer Animation - Exclusive - CABS (20256)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         }
       ],
       "backOnConditions": { "goesBackOn": true, "time": "3:00am PST" },
@@ -57,11 +57,11 @@
       "offConditions": [
         {
           "School": "Independence University - Exclusive - Clone (21539)",
-          "Alert": "Daily Allocation Group Scheduler Cap: Reached"
+          "Alert": "Daily Allocation Group Scheduler Quota: Reached"
         },
         {
           "School": "Full Sail University Online - Mobile Development - Exclusive - MDVBS (20257)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         }
       ],
       "backOnConditions": { "goesBackOn": true, "time": "3:00am PST" },
@@ -74,7 +74,7 @@
       "offConditions": [
         {
           "School": "Full Sail University Online - Sportscasting - Exclusive - SPORTS (20269)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         },
         {
           "School": "Full Sail University Online - Sportscasting - Exclusive - SPORTS (20269)",
@@ -85,7 +85,7 @@
         "time": "3:00am PST",
         "criteria": {
           "School": "Full Sail University Online - Sportscasting - Exclusive - SPORTS (20269)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         },
         "goesBackOn": false
       },
@@ -98,7 +98,7 @@
       "offConditions": [
         {
           "School": "Ultimate Medical Academy Online - Medical Billing and Coding - Exclusive (21827)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         },
         {
           "School": "Ultimate Medical Academy Online - Medical Billing and Coding - Exclusive (21827)",
@@ -109,7 +109,7 @@
         "time": "Monday-Thursday: 4am PST/Friday-Sunday: 7am PST",
         "criteria": {
           "School": "Ultimate Medical Academy Online - Medical Billing and Coding - Exclusive (21827)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         },
         "goesBackOn": false
       },
@@ -122,11 +122,11 @@
       "offConditions": [
         {
           "School": "Independence University - Exclusive - Clone (21539)",
-          "Alert": "Daily Allocation Group Scheduler Cap: Reached"
+          "Alert": "Daily Allocation Group Scheduler Quota: Reached"
         },
         {
           "School": "Full Sail University Online - Exclusive (19926)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         }
       ],
       "backOnConditions": { "goesBackOn": true, "time": "3:00am PST" },
@@ -139,7 +139,7 @@
       "offConditions": [
         {
           "School": "Full Sail University Online - Audio Production (22174)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         },
         {
           "School": "Full Sail University Online - Audio Production (22174)",
@@ -150,7 +150,7 @@
         "time": "3:00am PST",
         "criteria": {
           "School": "Full Sail University Online - Audio Production (22174)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         },
         "goesBackOn": false
       },
@@ -163,11 +163,11 @@
       "offConditions": [
         {
           "School": "Independence University - Exclusive - Clone (21539)",
-          "Alert": "Daily Allocation Group Scheduler Cap: Reached"
+          "Alert": "Daily Allocation Group Scheduler Quota: Reached"
         },
         {
           "School": "Full Sail University Online - Computer Animation - Exclusive - CABS (20256)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         }
       ],
       "backOnConditions": { "goesBackOn": true, "time": "3:00am PST" },
@@ -180,11 +180,11 @@
       "offConditions": [
         {
           "School": "Independence University - Exclusive - Clone (21539)",
-          "Alert": "Daily Allocation Group Scheduler Cap: Reached"
+          "Alert": "Daily Allocation Group Scheduler Quota: Reached"
         },
         {
           "School": "Full Sail University Online - Graphic Design - Exclusive - GRDBS (21471)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         }
       ],
       "backOnConditions": { "goesBackOn": true, "time": "6:00am PST" },
@@ -198,21 +198,21 @@
         [
           {
             "School": "Full Sail University Online - Cloud Technologies - TECH (21877)",
-            "Alert": "Daily Allocation Group Cap: Reached"
+            "Alert": "Daily Allocation Group Quota: Reached"
           },
           {
             "School": "Independence University - Exclusive - Clone (21539)",
-            "Alert": "Daily Allocation Group Scheduler Cap: Reached"
+            "Alert": "Daily Allocation Group Scheduler Quota: Reached"
           }
         ],
         [
           {
             "School": "Full Sail University Online - Cloud Technologies - TECH (21877)",
-            "Alert": "Daily Allocation Group Cap: Reached"
+            "Alert": "Daily Allocation Group Quota: Reached"
           },
           {
             "School": "Independence University - Exclusive - Clone (22150)",
-            "Alert": "Daily Allocation Group Scheduler Cap: Reached"
+            "Alert": "Daily Allocation Group Scheduler Quota: Reached"
           }
         ],
         [
@@ -222,7 +222,7 @@
           },
           {
             "School": "Independence University - Exclusive - Clone (21539)",
-            "Alert": "Daily Allocation Group Scheduler Cap: Reached"
+            "Alert": "Daily Allocation Group Scheduler Quota: Reached"
           }
         ],
         [
@@ -232,7 +232,7 @@
           },
           {
             "School": "Independence University - Exclusive - Clone (22150)",
-            "Alert": "Daily Allocation Group Scheduler Cap: Reached"
+            "Alert": "Daily Allocation Group Scheduler Quota: Reached"
           }
         ]
       ],
@@ -240,7 +240,7 @@
         "time": "3:00am PST",
         "criteria": {
           "School": "Full Sail University Online - Cloud Technologies - TECH (21877)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         },
         "goesBackOn": false
       },
@@ -253,7 +253,7 @@
       "offConditions": [
         {
           "School": "Ultimate Medical Academy Online - Medical Billing and Coding - Exclusive (21827)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         },
         {
           "School": "Ultimate Medical Academy Online - Medical Billing and Coding - Exclusive (21827)",
@@ -264,7 +264,7 @@
         "time": "Monday-Thursday: 4am PST/Friday-Sunday: 7am PST",
         "criteria": {
           "School": "Ultimate Medical Academy Online - Medical Billing and Coding - Exclusive (21827)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         },
         "goesBackOn": false
       },
@@ -277,11 +277,11 @@
       "offConditions": [
         {
           "School": "Independence University - Exclusive - Clone (21539)",
-          "Alert": "Daily Allocation Group Scheduler Cap: Reached"
+          "Alert": "Daily Allocation Group Scheduler Quota: Reached"
         },
         {
           "School": "Full Sail University Online - Mobile Development - Exclusive - MDVBS (20257)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         }
       ],
       "backOnConditions": { "goesBackOn": true, "time": "3:00am PST" },
@@ -294,7 +294,7 @@
       "offConditions": [
         {
           "School": "Full Sail University Online - Sportscasting - Exclusive - SPORTS (20269)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         },
         {
           "School": "Full Sail University Online - Sportscasting - Exclusive - SPORTS (20269)",
@@ -305,7 +305,7 @@
         "time": "3:00am PST",
         "criteria": {
           "School": "Full Sail University Online - Sportscasting - Exclusive - SPORTS (20269)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         },
         "goesBackOn": false
       },
@@ -318,7 +318,7 @@
       "offConditions": [
         {
           "School": "Full Sail University Online - Audio Production (22174)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         },
         {
           "School": "Full Sail University Online - Audio Production (22174)",
@@ -329,7 +329,7 @@
         "time": "6:00am PST",
         "criteria": {
           "School": "Full Sail University Online - Audio Production (22174)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         },
         "goesBackOn": false
       },
@@ -342,11 +342,11 @@
       "offConditions": [
         {
           "School": "Independence University - Exclusive - Clone (21539)",
-          "Alert": "Daily Allocation Group Scheduler Cap: Reached"
+          "Alert": "Daily Allocation Group Scheduler Quota: Reached"
         },
         {
           "School": "Full Sail University Online - Graphic Design - Exclusive - GRDBS (21471)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         }
       ],
       "backOnConditions": { "goesBackOn": true, "time": "6:00am PST" },
@@ -359,11 +359,11 @@
       "offConditions": [
         {
           "School": "Independence University - Exclusive - Clone (21539)",
-          "Alert": "Daily Allocation Group Scheduler Cap: Reached"
+          "Alert": "Daily Allocation Group Scheduler Quota: Reached"
         },
         {
           "School": "Full Sail University Online - Exclusive (19926)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         }
       ],
       "backOnConditions": { "goesBackOn": true, "time": "3:00am PST" },
@@ -376,11 +376,11 @@
       "offConditions": [
         {
           "School": "Independence University - Exclusive - Clone (21539)",
-          "Alert": "Daily Allocation Group Scheduler Cap: Reached"
+          "Alert": "Daily Allocation Group Scheduler Quota: Reached"
         },
         {
           "School": "Full Sail University Online - Computer Animation - Exclusive - CABS (20256)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         }
       ],
       "backOnConditions": { "goesBackOn": true, "time": "3:00am PST" },
@@ -393,7 +393,7 @@
       "offConditions": [
         {
           "School": "Ultimate Medical Academy Online - Medical Billing and Coding - Exclusive (21827)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         },
         {
           "School": "Ultimate Medical Academy Online - Medical Billing and Coding - Exclusive (21827)",
@@ -404,7 +404,7 @@
         "time": "3:00am PST",
         "criteria": {
           "School": "Ultimate Medical Academy Online - Medical Billing and Coding - Exclusive (21827)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         },
         "goesBackOn": false
       },
@@ -417,11 +417,11 @@
       "offConditions": [
         {
           "School": "Independence University - Exclusive - Clone (21539)",
-          "Alert": "Daily Allocation Group Scheduler Cap: Reached"
+          "Alert": "Daily Allocation Group Scheduler Quota: Reached"
         },
         {
           "School": "Full Sail University Online - Exclusive (19926)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         }
       ],
       "backOnConditions": { "goesBackOn": true, "time": "3:00am PST" },
@@ -434,11 +434,11 @@
       "offConditions": [
         {
           "School": "Independence University - Exclusive - Clone (21539)",
-          "Alert": "Daily Allocation Group Scheduler Cap: Reached"
+          "Alert": "Daily Allocation Group Scheduler Quota: Reached"
         },
         {
           "School": "Full Sail University Online - Computer Animation - Exclusive - CABS (20256)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         }
       ],
       "backOnConditions": { "goesBackOn": true, "time": "3:00am PST" },
@@ -451,11 +451,11 @@
       "offConditions": [
         {
           "School": "Independence University - Exclusive - Clone (21539)",
-          "Alert": "Daily Allocation Group Scheduler Cap: Reached"
+          "Alert": "Daily Allocation Group Scheduler Quota: Reached"
         },
         {
           "School": "Full Sail University Online - Graphic Design - Exclusive - GRDBS (21471)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         }
       ],
       "backOnConditions": { "goesBackOn": true, "time": "3:00am PST" },
@@ -469,21 +469,21 @@
         [
           {
             "School": "Full Sail University Online - Cloud Technologies - TECH (21877)",
-            "Alert": "Daily Allocation Group Cap: Reached"
+            "Alert": "Daily Allocation Group Quota: Reached"
           },
           {
             "School": "Independence University - Exclusive - Clone (21539)",
-            "Alert": "Daily Allocation Group Scheduler Cap: Reached"
+            "Alert": "Daily Allocation Group Scheduler Quota: Reached"
           }
         ],
         [
           {
             "School": "Full Sail University Online - Cloud Technologies - TECH (21877)",
-            "Alert": "Daily Allocation Group Cap: Reached"
+            "Alert": "Daily Allocation Group Quota: Reached"
           },
           {
             "School": "Independence University - Exclusive - Clone (22150)",
-            "Alert": "Daily Allocation Group Scheduler Cap: Reached"
+            "Alert": "Daily Allocation Group Scheduler Quota: Reached"
           }
         ],
         [
@@ -493,7 +493,7 @@
           },
           {
             "School": "Independence University - Exclusive - Clone (21539)",
-            "Alert": "Daily Allocation Group Scheduler Cap: Reached"
+            "Alert": "Daily Allocation Group Scheduler Quota: Reached"
           }
         ],
         [
@@ -503,7 +503,7 @@
           },
           {
             "School": "Independence University - Exclusive - Clone (22150)",
-            "Alert": "Daily Allocation Group Scheduler Cap: Reached"
+            "Alert": "Daily Allocation Group Scheduler Quota: Reached"
           }
         ]
       ],
@@ -511,7 +511,7 @@
         "time": "3:00am PST",
         "criteria": {
           "School": "Full Sail University Online - Cloud Technologies - TECH (21877)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         },
         "goesBackOn": false
       },
@@ -524,11 +524,11 @@
       "offConditions": [
         {
           "School": "Independence University - Exclusive - Clone (21539)",
-          "Alert": "Daily Allocation Group Scheduler Cap: Reached"
+          "Alert": "Daily Allocation Group Scheduler Quota: Reached"
         },
         {
           "School": "Full Sail University Online - Mobile Development - Exclusive - MDVBS (20257)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         }
       ],
       "backOnConditions": { "goesBackOn": true, "time": "3:00am PST" },
@@ -541,11 +541,11 @@
       "offConditions": [
         {
           "School": "Independence University - Exclusive - Clone (21539)",
-          "Alert": "Daily Allocation Group Scheduler Cap: Reached"
+          "Alert": "Daily Allocation Group Scheduler Quota: Reached"
         },
         {
           "School": "Full Sail University Online - Graphic Design - Exclusive - GRDBS (21471)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         }
       ],
       "backOnConditions": { "goesBackOn": true, "time": "3:00am PST" },
@@ -558,11 +558,11 @@
       "offConditions": [
         {
           "School": "Independence University - Exclusive - Clone (21539)",
-          "Alert": "Daily Allocation Group Scheduler Cap: Reached"
+          "Alert": "Daily Allocation Group Scheduler Quota: Reached"
         },
         {
           "School": "Full Sail University Online - Exclusive (19926)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         }
       ],
       "backOnConditions": { "goesBackOn": true, "time": "3:00am PST" },
@@ -575,11 +575,11 @@
       "offConditions": [
         {
           "School": "Independence University - Exclusive - Clone (21539)",
-          "Alert": "Daily Allocation Group Scheduler Cap: Reached"
+          "Alert": "Daily Allocation Group Scheduler Quota: Reached"
         },
         {
           "School": "Full Sail University Online - Exclusive (19926)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         }
       ],
       "backOnConditions": { "goesBackOn": true, "time": "3:00am PST" },
@@ -592,11 +592,11 @@
       "offConditions": [
         {
           "School": "Independence University - Exclusive - Clone (21539)",
-          "Alert": "Daily Allocation Group Scheduler Cap: Reached"
+          "Alert": "Daily Allocation Group Scheduler Quota: Reached"
         },
         {
           "School": "Full Sail University Online - Exclusive (19926)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         }
       ],
       "backOnConditions": { "goesBackOn": true, "time": "3:00am PST" },
@@ -609,11 +609,11 @@
       "offConditions": [
         {
           "School": "Independence University - Exclusive - Clone (21539)",
-          "Alert": "Daily Allocation Group Scheduler Cap: Reached"
+          "Alert": "Daily Allocation Group Scheduler Quota: Reached"
         },
         {
           "School": "Full Sail University Online - Exclusive (19926)",
-          "Alert": "Daily Allocation Group Cap: Reached"
+          "Alert": "Daily Allocation Group Quota: Reached"
         }
       ],
       "backOnConditions": { "goesBackOn": true, "time": "3:00am PST" },

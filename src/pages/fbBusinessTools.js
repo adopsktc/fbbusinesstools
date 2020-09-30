@@ -13,7 +13,7 @@ import AssociatedImages from "../mainTools/usedImages.js";
 import axios from "axios";
 
 export default function FbTools(props) {
-  const{ currentLocation } = props
+  const { currentLocation } = props;
   const [userBusiness, setUserBusiness] = useState(undefined);
   const [businessAdAccounts, setBusinessAdAccounts] = useState(undefined);
   const { error, token } = useContext(GlobalContext);
@@ -88,7 +88,7 @@ export default function FbTools(props) {
   return (
     <>
       <Container fluid className="mt-3">
-        <Row className='mb-3'>
+        <Row className="mb-3">
           <Col>
             {!accessToken ? (
               <div

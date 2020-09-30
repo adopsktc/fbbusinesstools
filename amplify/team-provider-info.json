@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fbbusinesstools-dev-171143-authRole",
+      "UnauthRoleArn": "arn:aws:iam::203323445806:role/amplify-fbbusinesstools-dev-171143-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::203323445806:role/amplify-fbbusinesstools-dev-171143-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-fbbusinesstools-dev-171143-deployment",
+      "UnauthRoleName": "amplify-fbbusinesstools-dev-171143-unauthRole",
+      "StackName": "amplify-fbbusinesstools-dev-171143",
+      "StackId": "arn:aws:cloudformation:us-east-1:203323445806:stack/amplify-fbbusinesstools-dev-171143/faddb260-01df-11eb-bdb3-0a2fadfa68a5",
+      "AmplifyAppId": "d3dymv5vko3o1l"
+    },
+    "categories": {
+      "auth": {
+        "fbbusinesstoolsf68c48f1": {}
+      }
+    }
+  }
+}

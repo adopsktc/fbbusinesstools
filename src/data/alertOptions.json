@@ -14,9 +14,8 @@
     ],
     "Alerts": [
       "Group WordTrap: Lead is OVERCAP",
-      "Daily Allocation Group Cap: Reached",
-      "Daily Allocation Group Scheduler Cap: Reached"
+      "Daily Allocation Group Quota: Reached",
+      "Daily Allocation Group Scheduler Quota: Reached"
     ]
   }
 }
-

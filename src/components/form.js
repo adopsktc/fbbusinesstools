@@ -7,7 +7,6 @@ import Button from "react-bootstrap/Button";
 import Badge from "react-bootstrap/Badge";
 import axios from "axios";
 
-
 export default function InputForm(props) {
   const {
     variant,
@@ -58,7 +57,6 @@ export default function InputForm(props) {
     dataSetter(undefined);
   };
 
-
   const dataCall = async () => {
     try {
       const response = await axios.get(dataRoutes[dataType]);
@@ -68,7 +66,6 @@ export default function InputForm(props) {
       setErrorState(true);
     }
   };
-
 
   return (
     <>

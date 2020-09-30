@@ -1,0 +1,11 @@
+type checkedAccount @model {
+  id: String!
+  accountID: String!
+}
+
+type alertItem @model {
+  id: ID!
+  Alert: String!
+  School: String!
+  Date: String!
+}

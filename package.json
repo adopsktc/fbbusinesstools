@@ -4,9 +4,11 @@
   "private": true,
   "homepage": "https://adopsktc.github.io/fbbusinesstools/",
   "dependencies": {
+    "@aws-amplify/ui-react": "^0.2.22",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.0.2",
     "@testing-library/user-event": "^12.1.3",
+    "aws-amplify": "^3.3.2",
     "axios": "^0.20.0",
     "bootstrap": "^4.5.2",
     "react": "^16.13.1",
@@ -25,7 +27,7 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": "HTTPS=true SSL_CRT_FILE=./.cert/cert.pem SSL_KEY_FILE=./.cert/key.pem react-scripts start",
+    "client": "HTTPS=true SSL_CRT_FILE=./.cert/cert.pem SSL_KEY_FILE=./.cert/key.pem react-scripts start",
     "build": "react-scripts build"
   },
   "eslintConfig": {
@@ -45,5 +47,6 @@
   },
   "devDependencies": {
     "gh-pages": "^3.1.0"
-  }
+  },
+  "proxy": "http://localhost:7000"
 }

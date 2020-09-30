@@ -1,3 +1,7 @@
+:root {
+  --amplify-primary-color: #007bff;
+}
+
 .App {
   background-color: #282c34;
   min-height: 100vh;
@@ -12,23 +16,21 @@
 }
 
 nav.nav-tabs a.nav-link.active {
-
   background-color: #858a8e;
   color: #242627;
-
 }
 
 .mainLogo {
   height: 30vh;
   width: 30vw;
-  position: absolute; 
-  left: 50%; 
+  position: absolute;
+  left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
 }
 
 div.mainCardAlerts {
-  background-color : #282c34;
+  background-color: #282c34;
 }
 
 div.react-bootstrap-table {
@@ -41,19 +43,20 @@ div.react-bootstrap-table table.table {
 
 table#tableDark {
   background-color: #343a40;
-  color:#fff;
+  color: #fff;
   border: 1px solid #454d55;
 }
 
 tr:nth-of-type(odd) {
-  background-color: hsla(0,0%,100%,.05);
+  background-color: hsla(0, 0%, 100%, 0.05);
 }
 
 .table thead th {
   border: 1px solid #454d55;
 }
 
-table.table-bordered td, .table-bordered th {
+table.table-bordered td,
+.table-bordered th {
   border: 1px solid #454d55;
 }
 
@@ -63,4 +66,13 @@ table.table tr.editedCell {
 
 table.table tr.savedCell {
   background-color: #28a745;
+}
+
+amplify-authenticator {
+  display: flex;
+  background-color: #282c34;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  height: 100vh;
 }
