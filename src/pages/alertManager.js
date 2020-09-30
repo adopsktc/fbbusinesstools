@@ -231,7 +231,7 @@ export default function AlertManager() {
   };
 
   const handleAlertDelete = (alert) => {
-    setAlertList(alertList.filter((f) => f !== alert));
+    setAlertList(alertList && alertList.filter((f) => f !== alert));
     setAdAccounts(accountsDeepCopy);
   };
 
@@ -268,7 +268,7 @@ export default function AlertManager() {
   }, []);
 
   useEffect(() => {
-    if (alertList.length === 0) {
+    if (alertList && alertList.length === 0) {
       setAdAccounts(accountsDeepCopy);
       setCheckedAccounts([]);
     }
