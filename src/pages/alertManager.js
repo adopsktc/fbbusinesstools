@@ -297,7 +297,7 @@ export default function AlertManager() {
                 <Col className="px-1">
                   <Button
                     onClick={handleClear}
-                    disabled={!alertList.length}
+                    disabled={alertList && !alertList.length}
                     className="mb-2"
                     variant="danger"
                   >
