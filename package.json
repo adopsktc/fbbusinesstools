@@ -28,7 +28,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "client": "HTTPS=true SSL_CRT_FILE=./.cert/cert.pem SSL_KEY_FILE=./.cert/key.pem react-scripts start",
-    "build": "react-scripts --max_old_space_size=4096 build"
+    "build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": "react-app"
