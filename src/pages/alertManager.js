@@ -17,7 +17,7 @@ import axios from "axios";
 import * as queries from "../graphql/queries";
 import * as mutations from "../graphql/mutations";
 import Amplify, { API, graphqlOperation } from "aws-amplify";
-import awsconfig from "../aws-exports";
+import awsconfig from "../aws-exports.js";
 
 Amplify.configure(awsconfig);
 
