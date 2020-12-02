@@ -115,6 +115,7 @@ export default function AlertManager() {
 
   const date = new Date();
   const formattedDate = date.toDateString();
+  const queryDate = date.toISOString().split("T")[0];
 
   const formatTS = (ts) => {
     let converted = new Date(parseInt(ts) * 1000);
@@ -174,7 +175,9 @@ export default function AlertManager() {
       const list = await API.graphql(
         graphqlOperation(queries.listCheckedAccounts)
       );
-      setCheckedAccounts(list.data.listCheckedAccounts.items);
+      setCheckedAccounts(
+        filterCheckedAccounts(list.data.listCheckedAccounts.items)
+      );
     } catch (error) {
       console.log(error);
     }
@@ -207,6 +210,9 @@ export default function AlertManager() {
       console.log(error);
     }
   };
+
+  const filterCheckedAccounts = (arr) =>
+    arr.filter((i) => i.createdAt.includes(queryDate));
 
   //Event Handlers
 
